@@ -1,0 +1,14 @@
+C:\Users\Core\Desktop\bronik\lab3\block2b\bin\Debug\net8.0\block2b.exe
+C:\Users\Core\Desktop\bronik\lab3\block2b\bin\Debug\net8.0\block2b.deps.json
+C:\Users\Core\Desktop\bronik\lab3\block2b\bin\Debug\net8.0\block2b.runtimeconfig.json
+C:\Users\Core\Desktop\bronik\lab3\block2b\bin\Debug\net8.0\block2b.dll
+C:\Users\Core\Desktop\bronik\lab3\block2b\bin\Debug\net8.0\block2b.pdb
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.AssemblyInfoInputs.cache
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.AssemblyInfo.cs
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.csproj.CoreCompileInputs.cache
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.dll
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\refint\block2b.dll
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.pdb
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\block2b.genruntimeconfig.cache
+C:\Users\Core\Desktop\bronik\lab3\block2b\obj\Debug\net8.0\ref\block2b.dll
